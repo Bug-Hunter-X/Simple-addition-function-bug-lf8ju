@@ -1,0 +1,1 @@
+This repository contains a simple addition function that has a bug. The bug is that the function does not handle non-numeric inputs correctly. The solution is to add a check to see if the inputs are numbers. If they are not, the function should return an error message.
